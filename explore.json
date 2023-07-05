@@ -1,0 +1,17 @@
+{
+    "0": {
+        "name": "Para comunicar",
+        "children": {
+            "0": {
+                "imgSRC": "https://raw.githubusercontent.com/oriolgds/Ors-Store-Release/main/Icons/Ors%20Chat.jpg",
+                "title": "Ors Chat",
+                "valoration": "4.2"
+            },
+            "1": {
+                "imgSRC": "https://raw.githubusercontent.com/oriolgds/Ors-Store-Release/main/Icons/Ors%20Chat.jpg",
+                "title": "Ors Chat 2.0",
+                "valoration": "4.7"
+            }
+        }
+    }
+}
