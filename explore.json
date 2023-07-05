@@ -13,5 +13,15 @@
                 "valoration": "4.7"
             }
         }
+    },
+    "1": {
+        "name": "Para jugar",
+        "children": {
+            "0": {
+                "imgSRC": "https://raw.githubusercontent.com/oriolgds/Ors-Store-Release/main/Icons/Ors%20Chat.jpg",
+                "title": "Juegos",
+                "valoration": "2.5"
+            }
+        }
     }
 }
